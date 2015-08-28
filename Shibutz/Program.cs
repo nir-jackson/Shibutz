@@ -10,6 +10,8 @@ namespace Shibutz
     {
         static void Main(string[] args)
         {
+           valueString = "Your string";
+	       Console.WriteLine(valueString);
         }
     }
 }
