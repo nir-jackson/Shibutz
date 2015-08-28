@@ -1,1 +1,6 @@
 c:\users\nirlaptop\documents\visual studio 2013\Projects\Shibutz\Shibutz\bin\Debug\Shibutz.exe.config
+c:\users\nirlaptop\documents\visual studio 2013\Projects\Shibutz\Shibutz\bin\Debug\Shibutz.exe
+c:\users\nirlaptop\documents\visual studio 2013\Projects\Shibutz\Shibutz\bin\Debug\Shibutz.pdb
+c:\users\nirlaptop\documents\visual studio 2013\Projects\Shibutz\Shibutz\obj\Debug\Shibutz.csprojResolveAssemblyReference.cache
+c:\users\nirlaptop\documents\visual studio 2013\Projects\Shibutz\Shibutz\obj\Debug\Shibutz.exe
+c:\users\nirlaptop\documents\visual studio 2013\Projects\Shibutz\Shibutz\obj\Debug\Shibutz.pdb

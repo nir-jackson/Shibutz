@@ -10,6 +10,11 @@ namespace Shibutz
     {
         static void Main(string[] args)
         {
+            Student s = new Student(32, "nir jackson");
+            s.PrintStudent();
+            s.Set_id(18);
+            s.Set_name("Fuck OFF!");
+            s.PrintStudent();
         }
     }
 }
