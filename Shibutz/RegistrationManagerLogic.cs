@@ -8,5 +8,6 @@ namespace Shibutz
 {
     class RegistrationManagerLogic
     {
+
     }
 }
